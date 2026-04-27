@@ -44,7 +44,7 @@ Each node contains:
 - Improve efficiency of search
 
 ## Code
-GitHub repository coming soon.
+[View on GitHub](https://github.com/seanahlewis/java-linked-list)
 
 ## Status
 Completed as part of coursework. Code cleanup and documentation in progress.
