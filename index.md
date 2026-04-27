@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](projects.md) | [Coursework](assignments.md) | [About](about.md)
+
+---
+
 # Seanah Lewis
 
 Computer Science student building projects in Java and JavaFX.
