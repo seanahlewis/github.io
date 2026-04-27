@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](projects.md) | [Coursework](assignments.md) | [About](about.md)
+
+---
+
 # About Me
 
 I am a Computer Science student at UIS currently learning Java and JavaFX.
