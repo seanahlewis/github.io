@@ -4,7 +4,9 @@
 
 # Coursework
 
-Assignments and practice work:
+Assignments and practice work demonstrating core computer science concepts.
+
+---
 
 ## Linked List Implementation
 Custom linked list built in Java.
