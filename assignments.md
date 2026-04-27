@@ -1,5 +1,7 @@
 # Coursework
 
+Assignments and practice work:
+
 ## Linked List Implementation
 Custom linked list built in Java.
 
