@@ -4,9 +4,16 @@
 
 # Projects
 
-Projects I've worked on:
+A collection of personal and academic projects.
 
-## JavaFX Inventory System
-A GUI-based inventory app built with JavaFX.
+---
 
-[View Details](projects/inventory-system.md)
+## Inventory System (JavaFX)
+A GUI-based application for managing inventory.
+
+[View Project Details](projects/inventory-system.md)
+
+---
+
+## More Projects Coming Soon
+- Console-based inventory system
