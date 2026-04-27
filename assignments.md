@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](projects.md) | [Coursework](assignments.md) | [About](about.md)
+
+---
+
 # Coursework
 
 Assignments and practice work:
