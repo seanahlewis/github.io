@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](projects.md) | [Coursework](assignments.md) | [About](about.md)
+[Home](../index.md) | [Projects](../projects.md) | [Coursework](../assignments.md) | [About](../about.md)
 
 ---
 
