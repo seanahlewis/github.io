@@ -18,8 +18,7 @@ A GUI application for managing inventory items.
 - Eclipse
 
 ## Status
-In progress
+Complete
 
-## Future Improvements
-- Add persistent storage (database or file saving)
-- Improve UI layout
+## Code
+[View on GitHub](https://github.com/seanahlewis/javafx-inventory-system)
