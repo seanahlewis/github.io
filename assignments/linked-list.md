@@ -38,13 +38,8 @@ Each node contains:
 - How references work in Java
 - How to debug logical errors in data structures
 
-## Future Improvements
-- Convert to doubly linked list
-- Add sorting functionality
-- Improve efficiency of search
-
 ## Code
 [View on GitHub](https://github.com/seanahlewis/java-linked-list)
 
 ## Status
-Completed as part of coursework. Code cleanup and documentation in progress.
+Completed.
